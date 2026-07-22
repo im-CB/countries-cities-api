@@ -1,0 +1,6 @@
+openapi: 3.0.3
+info:
+  title: Countries and Cities API
+  version: 1.0.0
+  description: REST API for retrieving countries and cities
+paths: {}
